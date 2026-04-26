@@ -1,0 +1,21 @@
+AI Tool Usage Acknowledgement
+
+Tool: Claude AI (Anthropic)
+Platform: claude.ai
+
+Purpose & Sections Used:
+
+1. Deployment Support
+   - Helped with FastAPI endpoint structure
+   - Assisted in Railway deployment configuration
+   - Resolved dependency errors during deployment
+
+2. Debugging Assistance  
+   - Helped fix session crash issues in Colab
+   - Resolved port and dependency conflicts
+
+3. Concept Clarification
+   - Clarified LSTM mathematical concepts
+   - Explained why val/test loss difference of 
+     0.0118 means no overfitting
+
